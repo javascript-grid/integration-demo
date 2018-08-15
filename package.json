@@ -1,11 +1,14 @@
 {
-    "name": "ag-grid-javascript-demo",
+    "name": "ag-grid-javascript-integration-demo",
     "version": "1.0.0",
     "description": "It's a 5 minute get-started guide with examples that you can copy/paste and hit the ground running. Once the basic setup is ready, I'll show you a few features and corresponding configuration options.",
-    "main": "index.js",
     "homepage": "https://javascript.ag-grid.com",
     "scripts": {
         "start": "http-server ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/javascript-grid/integration-demo.git"
     },
     "author": "Max Koretskyi <max.koretskyi@ag-grid.com>",
     "license": "MIT",
