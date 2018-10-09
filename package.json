@@ -2,7 +2,7 @@
     "name": "ag-grid-javascript-integration-demo",
     "version": "1.0.0",
     "description": "It's a 5 minute get-started guide with examples that you can copy/paste and hit the ground running. Once the basic setup is ready, I'll show you a few features and corresponding configuration options.",
-    "homepage": "https://javascript.ag-grid.com",
+    "homepage": "https://javascript-grid.ag-grid.com",
     "scripts": {
         "start": "http-server ."
     },
